@@ -1,4 +1,4 @@
-package OCT_SDET.OCT_SDET_0110;
+package _SDET._SDET_0110;
 
 public class Lab0110 {
     //SAMPLE
