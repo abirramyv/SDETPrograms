@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0846bb4e-f559-4321-b8dc-c3049014f155" name="Changes" comment="NEW FILES">
+    <list default="true" id="0846bb4e-f559-4321-b8dc-c3049014f155" name="Changes" comment="NEW FILES (data types)">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCT_SDET/OCT_SDET_1510/Task11510.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCT_SDET/OCT_SDET_1510/Task21510.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCT_SDET/OCT_SDET_1510/Task31510.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCT_SDET/OCT_SDET_1610/Lab011610.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCT_SDET/OCT_SDET_1710/Lab011710.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCT_SDET/OCT_SDET_1710/Lab021710.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OCT_SDET/OCT_SDET_0110/Lab0110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT_SDET/OCT_SDET_0110/Lab0110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCT_SDET/OCT_SDET_0910/Lab0910.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT_SDET/OCT_SDET_0910/Lab0910.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +53,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AGE.executor": "Run",
     "Application.Lab0110.executor": "Run",
+    "Application.Lab011610.executor": "Run",
+    "Application.Lab011710.executor": "Run",
     "Application.Lab0910.executor": "Run",
+    "Application.Lab21610.executor": "Run",
+    "Application.Task11610.executor": "Run",
+    "Application.Task21510.executor": "Run",
+    "Application.Task31510.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ramya/IdeaProjects/SDETPrograms/src/OCT_SDET"
+    "last_opened_file_path": "C:/Users/ramya/IdeaProjects/SDETPrograms"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,6 +76,74 @@
       <recent name="OCT_SDET" />
       <recent name="OCT_SDET_0110" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Lab021710">
+    <configuration name="Lab011610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT_SDET.OCT_SDET_1610.Lab011610" />
+      <module name="SDETPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCT_SDET.OCT_SDET_1610.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab011710" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT_SDET.OCT_SDET_1710.Lab011710" />
+      <module name="SDETPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCT_SDET.OCT_SDET_1710.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab021710" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT_SDET.OCT_SDET_1710.Lab021710" />
+      <module name="SDETPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCT_SDET.OCT_SDET_1710.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task21510" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT_SDET.OCT_SDET_1510.Task21510" />
+      <module name="SDETPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCT_SDET.OCT_SDET_1510.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lab021710" />
+      <item itemvalue="Application.Lab011710" />
+      <item itemvalue="Application.Task21510" />
+      <item itemvalue="Application.Lab011610" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab021710" />
+        <item itemvalue="Application.Lab011710" />
+        <item itemvalue="Application.Lab011610" />
+        <item itemvalue="Application.Task21510" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,11 +162,25 @@
       <option name="project" value="LOCAL" />
       <updated>1728765807735</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="NEW FILES (data types)">
+      <option name="closed" value="true" />
+      <created>1728843549851</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728843549851</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NEW FILES" />
-    <option name="LAST_COMMIT_MESSAGE" value="NEW FILES" />
+    <MESSAGE value="NEW FILES (data types)" />
+    <option name="LAST_COMMIT_MESSAGE" value="NEW FILES (data types)" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SDETPrograms$Lab21610.ic" NAME="Lab21610 Coverage Results" MODIFIED="1729126573665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>OCT_SDET.OCT_SDET_1610.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -10,9 +10,9 @@ public class Lab0910 {
         */
 
         // Primitive Data Type
-        byte b  = 111; // 8 bits, 1 Byte
-        short s  = -127; // 16 bits, 2 Byte
-        int i = 600; // 32 bits, 4 Byte
+        byte b  = 127; // 8 bits, 1 Byte (-128 to 127)
+        short s  = -127; // 16 bits, 2 Byte (-32,768 to 32,767)
+        int i = 600; // 32 bits, 4 Byte 
         long roll_no = 119775665; // 64 Bits, 8 Bytes
         char grade = 'A'; // 'A', b, c , e, d, el -> ASCII value - int - assigned.
         // 16 Bits, 2 Byte
